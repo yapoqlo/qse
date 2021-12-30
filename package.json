@@ -1,0 +1,16 @@
+{
+  "name": "roblox-open-source-bot",
+  "version": "2.0.0",
+  "description": "A simple roblox bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "xXAlexDeveloperXx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "noblox.js": "^4.7.3"
+  }
+}
